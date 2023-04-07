@@ -1,7 +1,9 @@
 # Raghavendra Kommavarapu
 **`ML Engineer | Data Scientist`**
 
-- I am an experienced Data Science/ML Professional with over 6 yrs of impactful experience working in Tech, Media, e-commerce, consulting firms.
+- I am an experienced Data Science/ML Professional with over 6 yrs of impactful experience working in Tech, Media, e-commerce, consulting firms. 
+- Have been in Individual contributor as well as lead roles
+- Have full stack DS skills. Engaging with relevant stakeholders to properly identify the problem, Conception of solution, development of Quick POCs, Extensive experimentation, Deployment and tracking
 - Have worked on problem statements pertaining to NLP, Personalization, payments, customer, Marketing intelligence
 - Lately, been working with state of the art models like GPT, BERT, GANs, CLIP etc
 - Presently finishing my masters in Data science at University of San Francisco (ranked among Top Data programs in USA). Bachelors from BITS PILANI, India (a top school in India)
