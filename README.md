@@ -1,6 +1,8 @@
 # Raghavendra Kommavarapu
 **`ML Engineer | Data Scientist`**
 
+<a href=""> <img src="ai_gen_image_coding.jpeg" alt="side img" align="right" width="270" height="auto"/> </a>
+
 - I am an experienced Data Science/ML Professional with over 6 yrs of impactful experience working in Tech, Media, e-commerce, consulting firms. 
 - Have been in Individual contributor as well as lead roles
 - Have full stack DS skills including MLops, deployment. Experienced at engaging with relevant stakeholders to properly identify the problem, Conception of solution, development of Quick POCs, Extensive development and experimentation, deployment and tracking
