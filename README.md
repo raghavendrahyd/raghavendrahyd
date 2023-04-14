@@ -3,12 +3,12 @@
 
 - I am an experienced Data Science/ML Professional with over 6 yrs of impactful experience working in Tech, Media, e-commerce, consulting firms. 
 - Have been in Individual contributor as well as lead roles
-- Have full stack DS skills. Engaging with relevant stakeholders to properly identify the problem, Conception of solution, development of Quick POCs, Extensive experimentation, Deployment and tracking
+- Have full stack DS skills including MLops, deployment. Experienced at engaging with relevant stakeholders to properly identify the problem, Conception of solution, development of Quick POCs, Extensive development and experimentation, deployment and tracking
 - Have worked on problem statements pertaining to NLP, Personalization, payments, customer, Marketing intelligence
-- Lately, been working with state of the art models like GPT, BERT, GANs, CLIP etc
+- Lately, been working with state of the art models like GPT, BERT, GANs, CLIP, Whisper etc
 - Presently finishing my masters in Data science at University of San Francisco (ranked among Top Data programs in USA). Bachelors from BITS PILANI, India (a top school in India)
 
-### Languages and Tools
+### Frameworks, Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt='Pytorch' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
@@ -26,3 +26,5 @@
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt='FastAPI' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
