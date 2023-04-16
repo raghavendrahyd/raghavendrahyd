@@ -10,6 +10,16 @@
 - Lately, been working with state of the art models like GPT, BERT, GANs, CLIP, Whisper etc
 - Presently finishing my masters in Data science at University of San Francisco (ranked among Top Data programs in USA). Bachelors from BITS PILANI, India (a top school in India)
 
+Here are few of my explorations/projects:
+- [NLP](https://github.com/raghavendrahyd/NLP)
+- [Computer vision](https://github.com/raghavendrahyd/computer_vision_dl)
+- [Audio](https://github.com/raghavendrahyd/audio)
+- [Recommender systems](https://github.com/raghavendrahyd/reco_systems)
+- [Cloud, Azure ML](https://github.com/raghavendrahyd/classification_azure)
+- [Forecasting](https://github.com/raghavendrahyd/DS_n_Stats/blob/main/Forecasting.ipynb)
+- [ML algorithms from scratch](https://github.com/raghavendrahyd/DS_n_Stats/tree/main/ml_from_scratch)
+- [End to end recommendation n classification problem statement](https://github.com/raghavendrahyd/recipe_data_intelligence)
+
 ### Frameworks, Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt='Pytorch' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
