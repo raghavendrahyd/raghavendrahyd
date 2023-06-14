@@ -7,11 +7,11 @@
 - Have been in Individual contributor as well as lead roles
 - Have full stack DS skills including MLops, deployment. Experienced at engaging with relevant stakeholders to properly identify the problem, Conception of solution, development of Quick POCs, Extensive development and experimentation, deployment and tracking
 - Have worked on problem statements pertaining to NLP, Personalization, payments, customer, Marketing intelligence
-- Lately, been working with state of the art models like GPT, BERT, GANs, CLIP, Whisper etc
+- Lately, been working with LLMs and state of the art models like GPT (Open AI GPT, Llama), BERT, GANs, CLIP, Whisper etc
 - Presently finishing my masters in Data science at University of San Francisco (ranked among Top Data programs in USA). Bachelors from BITS PILANI, India (a top school in India)
 
 Here are few of my explorations/projects:
-- [NLP](https://github.com/raghavendrahyd/NLP)
+- [NLP (incl. LLMs)](https://github.com/raghavendrahyd/NLP)
 - [Computer vision](https://github.com/raghavendrahyd/computer_vision_dl)
 - [Audio](https://github.com/raghavendrahyd/audio)
 - [Recommender systems](https://github.com/raghavendrahyd/reco_systems)
