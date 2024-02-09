@@ -3,11 +3,11 @@
 
 <a href=""> <img src="ai_gen_image_coding.jpeg" alt="side img" align="right" width="270" height="auto"/> </a>
 
-- I am an experienced Data Science/ML Professional with over 6 yrs of impactful experience working in Tech, Media, e-commerce, consulting firms. 
+- I am an experienced Data Science/ML Professional with 7 yrs of impactful experience working in Tech, Media, e-commerce, consulting firms. 
 - Have been in Individual contributor as well as lead roles
-- Have full stack DS skills including MLops, deployment. Experienced at engaging with relevant stakeholders to properly identify the problem, Conception of solution, development of Quick POCs, Extensive development and experimentation, deployment and tracking
-- Have worked on problem statements pertaining to NLP, Personalization, payments, customer, Marketing intelligence
-- Lately, been working with LLMs and state of the art models like GPT (Open AI GPT, Llama), BERT, GANs, CLIP, Whisper etc
+- Have full stack DS skills including MLops, deployment. Experienced at engaging with relevant stakeholders to properly identify the problem, Conception of solution, Development of Quick POCs, Extensive development and experimentation, deployment and tracking
+- Have worked on problem statements pertaining to Search, NLP, Personalization, Payments, Customer, Marketing intelligence
+- Lately, been working with LLMs and state of the art models like GPT (Open AI GPT, Llama, Mistral), BERT, GANs, CLIP, Whisper etc
 - Presently finishing my masters in Data science at University of San Francisco (ranked among Top Data programs in USA). Bachelors from BITS PILANI, India (a top school in India)
 
 Here are few of my explorations/projects:
